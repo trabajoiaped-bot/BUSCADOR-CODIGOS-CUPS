@@ -1,0 +1,22 @@
+[
+  { "codigo": "902201", "descripcion": "Consulta médica general" },
+  { "codigo": "902202", "descripcion": "Consulta médica especializada" },
+  { "codigo": "902203", "descripcion": "Consulta médica prioritaria" },
+  { "codigo": "902204", "descripcion": "Consulta médica domiciliaria" },
+  { "codigo": "902205", "descripcion": "Consulta médica de urgencias" },
+  { "codigo": "902206", "descripcion": "Consulta médica de control" },
+  { "codigo": "902207", "descripcion": "Consulta médica por médico general en hospitalización" },
+  { "codigo": "902208", "descripcion": "Consulta médica por médico especialista en hospitalización" },
+  { "codigo": "902209", "descripcion": "Consulta médica por médico general en unidad de cuidados intensivos" },
+  { "codigo": "902210", "descripcion": "Consulta médica por médico especialista en unidad de cuidados intensivos" },
+  { "codigo": "902211", "descripcion": "Consulta médica por médico general en unidad de cuidados intermedios" },
+  { "codigo": "902212", "descripcion": "Consulta médica por médico especialista en unidad de cuidados intermedios" },
+  { "codigo": "902213", "descripcion": "Consulta médica por médico general en unidad de cuidado neonatal" },
+  { "codigo": "902214", "descripcion": "Consulta médica por médico especialista en unidad de cuidado neonatal" },
+  { "codigo": "902215", "descripcion": "Consulta médica por médico general en unidad de cuidado coronario" },
+  { "codigo": "902216", "descripcion": "Consulta médica por médico especialista en unidad de cuidado coronario" },
+  { "codigo": "902217", "descripcion": "Consulta médica por médico general en unidad de recuperación post anestésica" },
+  { "codigo": "902218", "descripcion": "Consulta médica por médico especialista en unidad de recuperación post anestésica" },
+  { "codigo": "902219", "descripcion": "Consulta médica por médico general en unidad de observación" },
+  { "codigo": "902220", "descripcion": "Consulta médica por médico especialista en unidad de observación" }
+]
